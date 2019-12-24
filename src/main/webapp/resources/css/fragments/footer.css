@@ -1,0 +1,14 @@
+#layoutFooter {
+    margin-bottom: 25px;
+}
+
+#layoutFooter #footerTitle,
+#layoutFooter #footerCopyright {
+    margin: 5px;
+    font-size: 0.8rem;
+}
+
+#layoutFooter #footerTitle {
+    font-size: 0.8rem;
+    font-weight: 500;
+}

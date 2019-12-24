@@ -1,0 +1,24 @@
+/* Header 영역 공통 속성 */
+#layoutHeader {
+    font-size: 1.0rem;
+}
+
+#layoutHeader li {
+    margin-right: 10px;
+}
+
+#layoutHeader .nav-link,
+#layoutHeader .dropdown-item {
+    font-size: 0.9rem;
+}
+
+#layoutHeader .logoFont {
+
+}
+
+/* 650px 미만 시 */
+@media screen and (max-width: 650px) {
+    #layoutHeader {
+        font-size: 0.8rem;
+    }
+}
